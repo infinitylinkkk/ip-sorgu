@@ -2,6 +2,8 @@
 
 Bu araç, kullanıcıların IP adresleri hakkında bilgi almasını sağlar. IP adresi sorgulandığında, araç IP adresine ait detayları (lokasyon, ISP bilgisi vb.) sağlar.
 
+![Örnek Görüntü](https://github.com/infinitylinkkk/ip-sorgu/blob/935756b7f98c5c4e3e98f9a724dbf6e190ea6f63/IMG_20240807_123045.jpg)
+
 ## Özellikler
 
 - IP adresi sorgulama
