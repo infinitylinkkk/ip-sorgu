@@ -26,7 +26,7 @@ Bu araç, kullanıcıların IP adresleri hakkında bilgi almasını sağlar. IP 
 
 1. Aracı çalıştırın:
     ```bash
-    python İnfinitylink-İpSorgu.py
+    python infinitylink-ip.py
     ```
     
 2. IP adresini girin ve Enter tuşuna basın. Arayüz IP adresine ait bilgileri gösterecektir.
