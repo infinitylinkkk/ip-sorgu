@@ -20,7 +20,7 @@ Bu araç, kullanıcıların IP adresleri hakkında bilgi almasını sağlar. IP 
    
 2. Gerekli bağımlılıkları yükleyin:
     ```bash
-    cd infinitylinkkk
+    cd ip-sorgu
     pip install requests
     ```
 
